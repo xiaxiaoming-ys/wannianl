@@ -40,6 +40,7 @@ export default {
             .img-wrap {
                 position: relative;
                 height: 2.15rem;
+                overflow: hidden;
 
                 .mask{
                     display: flex;
